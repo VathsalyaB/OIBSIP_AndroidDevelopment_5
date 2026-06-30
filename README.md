@@ -1,15 +1,15 @@
 # OIBSIP_AndroidDevelopment_5
 # Stopwatch App
 
-## 📱 Overview
+##  Overview
 
 The Stopwatch App is an Android application developed using Java and XML that accurately measures elapsed time with millisecond precision. The application includes hold (lap) functionality, reset options, and a clean interface for an improved user experience.
 
-## 🎯 Objective
+##  Objective
 
 To design and develop a stopwatch application capable of accurately measuring elapsed time while learning Android event handling, timers, and UI management.
 
-## ✨ Features
+##  Features
 
 * Start Stopwatch
 * Stop Stopwatch
@@ -26,7 +26,7 @@ To design and develop a stopwatch application capable of accurately measuring el
 * XML
 * Android SDK
 
-## 📌 Steps Performed
+##  Steps Performed
 
 1. Designed the stopwatch interface using XML.
 2. Implemented timer functionality using Handler and Runnable.
@@ -34,14 +34,14 @@ To design and develop a stopwatch application capable of accurately measuring el
 4. Displayed recorded hold times using a ListView.
 5. Tested functionality on Android Emulator and physical devices.
 
-## ✅ Outcome
+##  Outcome
 
 Successfully created a stopwatch application with accurate timing, hold time recording, and an intuitive interface.
 
-## 🎥 Demo Video
+##  Demo Video
 
 *(Add YouTube or LinkedIn video link here)*
 
-## 👨‍💻 Author
+##  Author
 
 **Vathsalya B**
